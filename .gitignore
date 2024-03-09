@@ -1,3 +1,8 @@
+# M
+.venv
+docker
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
